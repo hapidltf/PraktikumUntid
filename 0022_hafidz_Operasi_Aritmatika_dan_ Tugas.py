@@ -147,4 +147,4 @@ print("\n")
 # C
 # mengecek apakah volume bangun tersebut = 480
 hasil = volume == 480
-print("volume bangun tersebut sama dengan 480", hasil)
+print("volume bangun tersebut lebih besar dari 480", hasil)
